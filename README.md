@@ -12,7 +12,7 @@ My first repository. Trying stuff.
 Write some code:
 
 ```
-$ print('hello-world')
+$ print('HelloWorld')
 ```
 
 ### Author
